@@ -1,0 +1,42 @@
+
+:root {
+  --bg-primary: #08090A;
+  --bg-card: #141516;
+  --color-white: #F7F8F8;
+  --color-gray: #838790;
+  --bg-hover: #202021;
+  --text-muted: #8A8F98;
+  --color-darker-gray: #626467;
+  --bg-navbar: #09090B;
+  --border-color: #232324;
+  --hover-card: #1c1c1f;
+
+}
+
+html {
+    background-color: var(--bg-primary);
+    color: #f2f2f7;
+    font-family: var(--font-inter), sans-serif;
+}
+
+*, :before, :after {
+    box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: --font-serif-display;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  border-radius: 15px;
+  padding: 4px 2px;
+}
+
+a:focus-visible {
+  outline: 2px solid #5e69d1;
+}

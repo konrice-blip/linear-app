@@ -1,4 +1,4 @@
-# Technical Assessment Project
+# Technical Assessment Linear App Project
 
 ## 🛠️ Tech Stack & Languages
 * **Framework:** Next.js
@@ -52,13 +52,4 @@
 ├── package-lock.json
 ├── package.json
 └── README.md
-```text
 
-## 📁 Project Structure
-
-1) Clone the resiporatory:
-```text
-git clone [https://github.com/konrice-blip/linear-app.git](https://github.com/konrice-blip/linear-app.git)
-cd linear-app
-
-2)

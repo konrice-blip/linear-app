@@ -80,8 +80,8 @@
 ### AI Assistance
 
 * It helped debug and identify syntax errors, missing semicolons, and typos when the codebase grew large and complex. In addition, it also helped in troubleshooting Git network push issues.
-* It also assisted in understanding and setting up Next.js App Router dynamic routes (`[slug]`), as well as implementing `'use client'` and React hooks like `useRef` for component interactivity (e.g., in the Build Integration component).
-* It also helped me guide through the implementation of CSS `clamp()`, media queries, complex Flexbox/Grid layouts, and a `useEffect` hook for the Build Integration component. AI also assisted with the "By Linear" verified badge implementation.
+* It also assisted in understanding and setting up Next.js App Router dynamic routes ([slug]), as well as implementing 'use client' and React hooks like useRef for component interactivity (e.g., in the Build Integration component).
+* It also helped me guide through the implementation of CSS clamp(), media queries, complex Flexbox/Grid layouts, and a useEffect hook for the Build Integration component. AI also assisted with the "By Linear" verified badge implementation.
 
 ### Personal Contributions & Review
 

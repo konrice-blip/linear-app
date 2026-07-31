@@ -27,7 +27,8 @@
 ├── src/
 │   ├── app/
 │   │   ├── [slug]/
-│   │   ├── favicon.ico
+│   │   │   ├── page.js
+│   │   │   └── Figma.module.css
 │   │   ├── globals.css
 │   │   ├── Homepage.module.css
 │   │   ├── layout.js

@@ -58,6 +58,23 @@
 
 ---
 
+##  Instructions for Running the Project
+
+1. **Clone the repository:**
+   git clone https://github.com/konrice-blip/linear-app.git
+   cd linear-app
+
+2. **Install dependencies:**
+   npm install
+
+3. **Run the development server:**
+   npm run dev
+
+4. **View in browser:**
+   Open http://localhost:3000 in your browser.
+
+---
+
 ## Tested Devices & Screen Sizes
 
 * **Desktop / Laptop:** 1024px and above (default)

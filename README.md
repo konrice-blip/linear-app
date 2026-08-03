@@ -78,7 +78,7 @@
 
 ## AI Usage & Contributions
 
-### AI Assistance
+### AI Assistance (Claude AI, Gemini)
 
 * It helped debug and identify syntax errors, missing semicolons, and typos when the codebase grew large and complex. In addition, it also helped in troubleshooting Git network push issues.
 * It also assisted in understanding and setting up Next.js App Router dynamic routes ([slug]), as well as implementing 'use client' and React hooks like useRef for component interactivity (e.g., in the Build Integration component).
